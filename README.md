@@ -1,3 +1,37 @@
+
+<!DOCTYPE html>
+
+<!-- index.html. -->
+<html>
+
+	<head>
+
+		<meta charset="utf-8">
+		
+			<title>Paxton_Markus_MIS577</title>
+			
+<!-- MIS577 Keller Online
+
+May 2018
+This site currently cnsists of this index page and the following Milestone 1 features:
+1)Global Structure Tag
+2)Text Tags
+3)Images
+4)First page named index.html
+5)Title of page is Paxton_Markus_MIS577_Section
+
+
+<h1>This is a Heading</h1>
+<p>This website is designed by Markus Paxton in showcase recipes.</p>
+
+</body>
+</html>
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/MLP193/Websol/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
